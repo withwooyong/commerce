@@ -1,0 +1,9 @@
+rootProject.name = 'commerce'
+include 'module-sample'
+include 'yanadoo-common'
+include 'yanadoo-ai'
+include 'yanadoo-api'
+include 'yanadoo-auth'
+include 'yanadoo-batch'
+include 'yanadoo-push'
+
